@@ -1,0 +1,31 @@
+{
+  "Products": [
+    {
+      "id": 2,
+      "name": "Notebook HP",
+      "price": "120"
+    },
+    {
+      "id": 3,
+      "name": "Celular Samsung",
+      "price": 3500
+    },
+    {
+      "id": 4,
+      "name": "Grampeador",
+      "price": 35
+    }
+  ],
+  "FUNCIONARIOS": [
+    {
+      "ID": 1,
+      "NOME": "Mauricio Tadeu",
+      "CELULAR": "11 98181-7626"
+    },
+    {
+      "ID": 2,
+      "NOME": "Ana Andrade",
+      "CELULAR": "11 99999-8888"
+    }
+  ]
+}
